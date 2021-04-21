@@ -1,0 +1,9 @@
+D:\PracProject\Core SOA\Lib.SchoolModel\bin\Debug\netcoreapp3.1\Lib.SchoolModel.deps.json
+D:\PracProject\Core SOA\Lib.SchoolModel\bin\Debug\netcoreapp3.1\Lib.SchoolModel.dll
+D:\PracProject\Core SOA\Lib.SchoolModel\bin\Debug\netcoreapp3.1\Lib.SchoolModel.pdb
+D:\PracProject\Core SOA\Lib.SchoolModel\obj\Debug\netcoreapp3.1\Lib.SchoolModel.csprojAssemblyReference.cache
+D:\PracProject\Core SOA\Lib.SchoolModel\obj\Debug\netcoreapp3.1\Lib.SchoolModel.AssemblyInfoInputs.cache
+D:\PracProject\Core SOA\Lib.SchoolModel\obj\Debug\netcoreapp3.1\Lib.SchoolModel.AssemblyInfo.cs
+D:\PracProject\Core SOA\Lib.SchoolModel\obj\Debug\netcoreapp3.1\Lib.SchoolModel.csproj.CoreCompileInputs.cache
+D:\PracProject\Core SOA\Lib.SchoolModel\obj\Debug\netcoreapp3.1\Lib.SchoolModel.dll
+D:\PracProject\Core SOA\Lib.SchoolModel\obj\Debug\netcoreapp3.1\Lib.SchoolModel.pdb

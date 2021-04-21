@@ -1,0 +1,12 @@
+D:\PracProject\Core SOA\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.deps.json
+D:\PracProject\Core SOA\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.dll
+D:\PracProject\Core SOA\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.pdb
+D:\PracProject\Core SOA\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csprojAssemblyReference.cache
+D:\PracProject\Core SOA\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.AssemblyInfoInputs.cache
+D:\PracProject\Core SOA\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.AssemblyInfo.cs
+D:\PracProject\Core SOA\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.dll
+D:\PracProject\Core SOA\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.pdb
+D:\PracProject\Core SOA\Lib.Service\bin\Debug\netcoreapp3.1\Lib.SchoolModel.dll
+D:\PracProject\Core SOA\Lib.Service\bin\Debug\netcoreapp3.1\Lib.SchoolModel.pdb
+D:\PracProject\Core SOA\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.CopyComplete
+D:\PracProject\Core SOA\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.CoreCompileInputs.cache
