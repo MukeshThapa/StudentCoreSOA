@@ -39,6 +39,7 @@ namespace SchoolSOA
         {
             if (env.IsDevelopment())
             {
+
                 app.UseDeveloperExceptionPage();
             }
             else
