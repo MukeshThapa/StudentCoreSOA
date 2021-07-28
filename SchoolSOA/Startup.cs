@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Lib.SchoolModel.Models;
 using Lib.Service.StudentService;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -27,6 +28,8 @@ namespace SchoolSOA
 
             services.AddScoped<IStudentService,StudentService>();
 
+            var appSettingSection = Configuration.GetSection("AppSetting");
+            services.Configure<AppSetting>(appSettingSection);
 
 
         }

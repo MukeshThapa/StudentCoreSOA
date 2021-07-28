@@ -10,6 +10,6 @@ namespace Lib.Service.StudentService
         Task<List<Student>> GetStudents();
 
         Task<int> SaveStudent( Student std);
-
+        Task<string> DeleteStudent(int Id);
     }
 }

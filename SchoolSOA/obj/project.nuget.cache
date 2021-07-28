@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bqaf55An7ecZdO+wog8dMyMUAWW/ScoeFkRE9Mu50P07oWNSRTlRqumZ2/sKV9/xi/f7eychENHg9b7xcQaq2w==",
+  "dgSpecHash": "C0zCD11B364ZjDMY/yLhA3w2xV1t6gmWJrrcUnr+Nn0Wj/c9U83TjW4DaUTbWy/wJuTqld778HOEMTDaP+mW1A==",
   "success": true,
   "projectFilePath": "D:\\PracProject\\Core SOA\\SchoolSOA\\SchoolSOA.csproj",
   "expectedPackageFiles": [
@@ -17,8 +17,10 @@
     "C:\\Users\\Munmuk\\.nuget\\packages\\microsoft.codeanalysis.razor\\3.1.8\\microsoft.codeanalysis.razor.3.1.8.nupkg.sha512",
     "C:\\Users\\Munmuk\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\3.3.1\\microsoft.codeanalysis.workspaces.common.3.3.1.nupkg.sha512",
     "C:\\Users\\Munmuk\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.0\\microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
-    "C:\\Users\\Munmuk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Munmuk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Munmuk\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.6\\microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "C:\\Users\\Munmuk\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Munmuk\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\Munmuk\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Munmuk\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.5\\microsoft.visualstudio.web.codegeneration.3.1.5.nupkg.sha512",

@@ -33,10 +33,24 @@ namespace SchoolSOA.Controllers
         [HttpPost]
         public async Task<IActionResult> AddStudent(Student std)
         {
-            int result = await _service.SaveStudent(std);
+            await _service.SaveStudent(std);
 
             return RedirectToAction("Index");
         }
 
+       
+        public async Task<IActionResult> Delete(int id)
+        {
+            string res = await _service.DeleteStudent(id);
+
+            return RedirectToAction("Index");
+        }
+
+
+        //public IActionResult Delete(int id)
+        //{
+
+        //    return RedirectToAction("Index",id);
+        //}
     }
 }
